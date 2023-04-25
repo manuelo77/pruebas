@@ -1,3 +1,2 @@
-<h1>Welcome to your library project</h1>
-<p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>html comun en este componente llamado page.svelte</h1>
+<img src="%sveltekit.assets%/favicon.png" alt="">
